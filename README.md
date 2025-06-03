@@ -6,7 +6,16 @@ In `base` libs that inspired this:
 - https://github.com/bdavisx/drawio-templates/blob/master/EventStorming.xml
 
 
-- ES — block style with all needed in my Vision
-- ES Classic Colors — colors from base ES flow scheme
-- Event Stroming Stickers — adjusted stickers
+ES — block style with all needed in my Vision
 
+![ES Blocks](images/es.png)
+
+ES Classic Colors — colors from base ES flow scheme
+
+![ES Classic Colors](images/es_classic.png)
+
+![Color origin](images/flow.png)
+
+Event Stroming Stickers — adjusted stickers
+
+![Event Stroming Stickers](images/stickers.png)
